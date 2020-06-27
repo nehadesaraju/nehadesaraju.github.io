@@ -1,33 +1,26 @@
-languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+writing:
+  - item: Copywriting
+  - item: AP Stylebook
+  - item: Editing
+  - item: Reporting
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+creative:
+  - item: Graphic design
+  - item: Newspaper & magazine design
+  - item: Social media video production
+  - item: WordPress
+  - item: Reporting & creative photography
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Adobe Photoshop
+  - item: Adobe Illustrator
+  - item: Adobe InDesign
+  - item: Adobe Premiere Pro
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+learning:
+  - item: Adobe AfterEffects
+  - item: Python
+  - item: R
+  - item: Git & Github
+  - item: Data visualization
+  - item: Google Earth Studios
