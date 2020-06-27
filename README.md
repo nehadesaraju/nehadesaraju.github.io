@@ -1,6 +1,6 @@
 # v3
 
-Neha Desaraju's personal website built with Jekyll. Much love + thanks to [Brittany Chiang](bchiang7.github.io).
+Neha Desaraju's personal website built with Jekyll. Much love + thanks to [Brittany Chiang](https://bchiang7.github.io).
 
 ## Dependencies
 
